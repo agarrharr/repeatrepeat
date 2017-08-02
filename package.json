@@ -1,0 +1,29 @@
+{
+  "name": "repeatrepeat",
+  "version": "1.0.0",
+  "description": "Repeat a string a certain number of times",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarrharr/repeatrepeat.git"
+  },
+  "keywords": [
+    "repeat",
+    "repeatrepeat",
+    "string",
+    "str"
+  ],
+  "author": "Adam Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agarrharr/repeatrepeat/issues"
+  },
+  "homepage": "https://github.com/agarrharr/repeatrepeat#readme",
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "xo": "^0.18.2"
+  }
+}
